@@ -5,7 +5,7 @@
 - 👨🏾‍💻 Proficient in multiple programming languages (Java, Python, C/C++, Javascript)
 - 📝 Currently learning Software Architecture, Machine Learning Systems, and Software Industry Practices
 - 🎨 I have an interest in UI design tools such as Figma for well structured yet visually appealing software 
-- 🌱 I am an avid learner always looking for way to gain knowledge and improve!
+- 🌱 I am an avid learner always looking for ways to gain knowledge and improve!
 - 📱 Let's connect! [LinkedIn](https://www.linkedin.com/in/caleb-oviawe-ab080a263/)
 
 <!---
